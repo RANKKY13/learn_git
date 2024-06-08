@@ -1,1 +1,1 @@
-This a file on Learning how git hub works and how to interact with github from code editor
+This a file on Learning how git hub works and how to interact with github from code
